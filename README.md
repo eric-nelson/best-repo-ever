@@ -1,3 +1,4 @@
 # best-repo-ever
 NEWLINE
 NEWLINE
+DIFFERENT NEWLINE CONFLICT!!!!
